@@ -6,6 +6,7 @@ App-Based Solution to Identify and Solve Plant Diseases 🌱
 👩‍💻 Team Members: Jeffersen Godfrey A.M (Leader), Jason Peniel Raj S, Joyslin Jenifer M, Harshini P, Kowshika V, Mahalakshmi M
 
 🎓 Institute: St. Joseph's Institute of Technology
+Department :CSE
 
 💡 Theme: Agriculture, Food Tech, and Rural Development
 
